@@ -1,6 +1,6 @@
 # App
 
-GymPass style app.
+Credit GPT
 
 ## RFs (Requisitos funcionais)
 
